@@ -3,7 +3,7 @@ use google location history data to figure out if I crossed all of Portland's br
 
 ## Google Location History
 Using the google Timeline UI, I can see all the trips I've made. Depending on how many location pings were collected, it's possible to see which bridges I crossed on a given trip:
-![image](https://user-images.githubusercontent.com/24400820/167315554-729f9376-3ac4-4f3d-893a-f24fe5da8716.png)
+![image](https://user-images.githubusercontent.com/24400820/167315707-5d48a083-c56f-4b37-8148-41d715bb1dc8.png)
 
 ## Google Takeout
 Instead of searching through the UI for all the times I crossed a bridge. My plan is to download my location data from [Google Takeout](https://takeout.google.com/settings/takeout). It's possible to download all the location data as a .zip json.
