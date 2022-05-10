@@ -11,8 +11,8 @@ Instead of searching through the UI, it's possible to download location data fro
 ## Plan
 
 1. Download all location data
-2. Find Portland bridge GIS files (ideally from City of Portland)
-3. Buffer portland bridges by some amount (let's start with 500 m)
+2. Find Portland bridge [GIS files](https://gis-pdx.opendata.arcgis.com/datasets/river-bridges/explore?location=45.487463%2C-122.625796%2C11.53) or create bridge files (get_bridge_paths.ipynb)
+3. Buffer portland bridges by some amount (let's start with 150 m)
 4. Clip all location pings within the bridge buffers
 5. See if I went over all the bridges (bonus see if Google data can tell me whether I drove, biked, or walked over the bridge)
 
