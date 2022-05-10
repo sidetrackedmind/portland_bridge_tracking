@@ -1,2 +1,4 @@
 .DS_Store
 location_data/*
+gis_data/bridge_zone_network.graphml
+cache/*
